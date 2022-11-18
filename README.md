@@ -1,5 +1,3 @@
-# specularis
-
 <a name="readme-top"></a>
 
 

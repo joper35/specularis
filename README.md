@@ -27,7 +27,7 @@
   <summary>Indice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el libro</a>
+      <a href="#sobre-el-libro">Sobre el libro</a>
     </li>
    <li><a href="#contributing">Contribuye / Crea obras derivadas</a></li>
     <li><a href="#license">Licencia</a></li>

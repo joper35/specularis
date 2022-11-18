@@ -1,3 +1,5 @@
+Solo aplicable al material creado por joper35. Algunas imagenes o citas pueden tener otros autores/derechos
+
 CC0 1.0 Universal
 https://creativecommons.org/publicdomain/zero/1.0/legalcode.es
 

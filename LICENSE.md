@@ -13,11 +13,18 @@ Por estos y/u otros propósitos y motivaciones, y sin ninguna expectativa de con
 1. Derechos de Autor y Derechos Conexos. Una Obra disponible bajo una CC0 puede estar protegida por derechos de autor o derechos conexos (“Derechos de Autor y Derechos Conexos”). Los Derechos de Autor y los Derechos Conexos incluyen, pero no están limitados a, lo siguiente:
 
     i   el derecho a reproducir, adaptar, distribuir, interpretar, exhibir, comunicar y traducir una Obra;
+    
     ii. derechos morales retenidos por el/los autor/autores originales y/o el/los intérprete/s;
+    
     iii.derechos de publicidad y de privacidad pertenecientes a la imagen o parecido de una persona representado en una Obra;
+    
+    
     iv. derechos de protección contra la competencia desleal en relación a una Obra, sujeto a las limitaciones del párrafo 4(a), abajo;
+    
     v.  derechos para proteger la extracción, diseminación, uso y reuso de los datos en una Obra;
+    
     vi. derechos sobre bases de datos (tales como los que emergen bajo la Directiva 96/9/CE del Parlamento Europeo y del Consejo del 11 de marzo de 1996 sobre la protección legal de las bases de datos, y bajo cualquier implementación nacional de aquellos, incluyendo cualquier enmienda o versión posterior de dicha directiva); y
+    
     vii.otros derechos similares, equivalentes o correspondientes a lo largo del mundo basados en leyes o tratados aplicables, y cualquier implementación nacional de aquellos.
 
 2. Renuncia. En la mayor medida posible de lo permitido por, pero no en contravención a, la ley aplicable, el Afirmante de forma abierta, completa, permanente, irrevocable e incondicional por este medio renuncia, abandona y rinde todos los Derechos de Autor y Derechos Conexos del Afirmante y reclamos asociados y causas de acción, ya sean conocidas ahora o desconocidas (incluyendo reclamos y causas de acción existentes y futuras), sobre la Obra (i) en todos los territorios del mundo, (ii) por el tiempo máximo de duración previsto por la ley o tratado aplicable (incluyendo extensiones de tiempo futuras), (iii) en cualquier medio actual o futuro y para cualquier número de copias y (iv) para cualquier propósito de cualquier naturaleza, incluyendo sin limitación comercial, anuncios y fines promocionales (la “Renuncia”). El Afirmante hace la Renuncia en beneficio de cada miembro del público en general y en detrimento de los herederos y sucesores del Afirmante, con la intención plena de que tal Renuncia no será sujeto de revocación, rescisión, cancelación, terminación o cualquier otra acción legal o similar para interrumpir el plácido disfrute de la Obra por el público tal como se contempla en la expresa Declaración de Propósitos del Afirmante.
